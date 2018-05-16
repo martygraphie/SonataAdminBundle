@@ -18,7 +18,7 @@ its parent:
 
 .. configuration-block::
 
-    .. code-block:: xml
+    .. code-block:: yml
 
         <!-- app/config/config.xml -->
         <service id="sonata.admin.playlist" class="App\Admin\PlaylistAdmin">
